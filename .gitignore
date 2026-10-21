@@ -1,0 +1,5 @@
+runs/
+blender_deps/
+__pycache__/
+*.pyc
+.DS_Store

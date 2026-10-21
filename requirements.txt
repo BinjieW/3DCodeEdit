@@ -1,0 +1,7 @@
+requests
+tqdm
+openai>=1.66  # for evaluation.inference and non-Gemini verifiers
+
+# Rendering also needs Blender 5.1.0. Five source programs import scipy, which Blender does not ship.
+# Install it with Blender's own Python into ./blender_deps, which evaluation.render picks up automatically:
+#   <blender dir>/5.1/python/bin/python3.13 -m pip install --target blender_deps scipy
