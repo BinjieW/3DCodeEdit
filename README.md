@@ -1,6 +1,6 @@
 # 3DCodeEdit: Benchmarking Instruction-Guided 3D Program Editing
 
-[Project page](https://binjiew.github.io/3DCodeEdit/) · Paper (arXiv, coming soon) · [Data](https://huggingface.co/datasets/BinjieW/3DCodeEdit)
+[Project page](https://binjiew.github.io/3DCodeEdit/) · [Paper](https://arxiv.org/abs/2610.38231) · [Data](https://huggingface.co/datasets/BinjieW/3DCodeEdit)
 
 3DCodeEdit is a benchmark for instruction-guided editing of 3D programs. Each task gives a model a
 complete Blender Python program that builds an object entirely in code, together with an edit prompt,
@@ -198,7 +198,7 @@ source program keeps the license of the model it comes from, listed with its aut
   title   = {{3DCodeEdit}: Benchmarking Instruction-Guided {3D} Program Editing},
   author  = {Wang, Binjie and Zhao, Xinran and Yu, Shoubin and Li, Xiang and Yong, Silong and
              Yang, Chenyang and Chen, Tianyu and Du, Ruofei and He, He and Zhao, Chen and Wu, Tongshuang},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2610.38231},
   year    = {2026}
 }
 ```
